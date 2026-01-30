@@ -1,4 +1,4 @@
-# A01-sgs25003AtesBoyaci98
+# OPIM5512-sgs25003
 Hello, this is my first public repository. And I'm happy to share it with you!
 
 My name is Ates and I am a grad student at UConn MSBAPM Program and this is my second semester.
